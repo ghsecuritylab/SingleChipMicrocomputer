@@ -1,0 +1,25 @@
+#define SEG_A 0x01
+#define SEG_B 0x02
+#define SEG_C 0x04
+#define SEG_D 0x08
+#define SEG_E 0x10
+#define SEG_F 0x20
+#define SEG_G 0x40
+
+#define _FLAG_NUM_0 (SEG_A|SEG_B|SEG_C|SEG_D|SEG_E|SEG_F)
+#define _FLAG_NUM_1 (SEG_B|SEG_C)
+#define _FLAG_NUM_2 (SEG_A|SEG_B|SEG_G|SEG_E|SEG_D)
+#define _FLAG_NUM_3 (SEG_A|SEG_B|SEG_G|SEG_C|SEG_D)
+#define _FLAG_NUM_4 (SEG_B|SEG_C|SEG_F|SEG_G)
+#define _FLAG_NUM_5 (SEG_A|SEG_F|SEG_G|SEG_C|SEG_D)
+#define _FLAG_NUM_6 (SEG_A|SEG_C|SEG_D|SEG_E|SEG_F|SEG_G)
+#define _FLAG_NUM_7 (SEG_A|SEG_B|SEG_C)
+#define _FLAG_NUM_8 (SEG_A|SEG_B|SEG_C|SEG_D|SEG_E|SEG_F|SEG_G)
+#define _FLAG_NUM_9 (SEG_A|SEG_B|SEG_C|SEG_D|SEG_F|SEG_G) 
+#define _FLAG_NUM_A (SEG_A|SEG_B|SEG_C|SEG_E|SEG_F|SEG_G) 
+#define _FLAG_NUM_B (SEG_E|SEG_G|SEG_F|SEG_C|SEG_D) 
+#define _FLAG_NUM_C (SEG_A|SEG_D|SEG_E|SEG_F) 
+#define _FLAG_NUM_D (SEG_E|SEG_B|SEG_C|SEG_D|SEG_G) 
+#define _FLAG_NUM_E (SEG_A|SEG_G|SEG_D|SEG_E|SEG_F) 
+#define _FLAG_NUM_F (SEG_A|SEG_G|SEG_E|SEG_F) 
+#define _FLAG_NUM_H (SEG_B|_SEG_C|SEG_G|SEG_F|SEG_E)

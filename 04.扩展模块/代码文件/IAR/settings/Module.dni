@@ -1,0 +1,33 @@
+[DebugChecksum]
+Checksum=-1990682697
+[DisAssemblyWindow]
+NumStates=_ 1
+State 1=_ 1
+[InstructionProfiling]
+Enabled=_ 0
+[CodeCoverage]
+Enabled=_ 0
+[Profiling]
+Enabled=0
+[StackPlugin]
+Enabled=1
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnHow=0
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[Breakpoints]
+Bp0=_ "STD_CODE" "{C:\Users\Administrator\Desktop\程序软件}.103.1@1" 0 0 0 0 "" 0 ""
+Bp1=_ "STD_CODE" "CODE:0x001176" 0 0 0 0 "" 0 ""
+Bp2=_ "STD_CODE" "{E:\可扩展模块电柜集中系统\可扩展模块电柜集中系统\Code}.130.4@1" 0 0 0 0 "" 0 ""
+Count=3

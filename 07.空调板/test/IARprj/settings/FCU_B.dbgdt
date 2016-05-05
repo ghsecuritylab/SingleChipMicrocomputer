@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log>
+        
+        
+      <ColumnWidth0>18</ColumnWidth0><ColumnWidth1>1859</ColumnWidth1></Debug-Log>
+      <Build>
+        <ColumnWidth0>18</ColumnWidth0>
+        <ColumnWidth1>1394</ColumnWidth1>
+        <ColumnWidth2>371</ColumnWidth2>
+        <ColumnWidth3>92</ColumnWidth3>
+      </Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>348</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        
+        
+        
+      <MixedMode>1</MixedMode><CodeCovShow>0</CodeCovShow><InstrProfShow>0</InstrProfShow></Disassembly>
+    <Find-in-Files><ColumnWidth0>664</ColumnWidth0><ColumnWidth1>94</ColumnWidth1><ColumnWidth2>1138</ColumnWidth2></Find-in-Files><Watch><Format><struct_types/><watch_formats/></Format></Watch><Locals><Column0>223</Column0><Column1>100</Column1><Column2>299</Column2><Column3>100</Column3></Locals><Memory><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><FindDirection>1</FindDirection><FindAsHex>0</FindAsHex></Memory></Static>
+    <Windows>
+      
+      
+      
+    <Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-23374-11193</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-11580-11210</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-16918-26605</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab><Tab><Identity>TabID-19920-21191</Identity><TabName>Breakpoints</TabName><Factory>Breakpoints</Factory></Tab><Tab><Identity>TabID-17332-16616</Identity><TabName>Locals</TabName><Factory>Locals</Factory><Session><Column0>223</Column0><Column1>100</Column1><Column2>299</Column2><Column3>100</Column3></Session></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3><Wnd4>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-1354-11197</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>FCU_B</ExpandedNode><ExpandedNode>FCU_B/CODE</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd4><Wnd5>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-12103-11200</Identity>
+            <TabName>Disassembly</TabName>
+            <Factory>Disassembly</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd5></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>E:\Work\&#x98Ce;&#x673A;&#x76D8;&#x7BA1;&#x63A7;&#x5236;&#x5668;\&#x98Ce;&#x673A;&#x76D8;&#x7BA1;&#x63A7;&#x5236;&#x5668;V1.6\&#x98Ce;&#x673A;&#x76D8;&#x7BA1;&#x63A7;&#x5236;&#x5668;\5_&#x8F6F;&#x4eF6;&#x8BBe;&#x8BA1;\(1)&#x6e90;&#x6587;&#x4eF6;&#x4e0e;&#x9879;&#x76ee;\FCU_B_Pro_V1.2\code\PID.h</Filename><XPos>0</XPos><YPos>90</YPos><SelStart>4008</SelStart><SelEnd>4008</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>E:\Work\&#x98Ce;&#x673A;&#x76D8;&#x7BA1;&#x63A7;&#x5236;&#x5668;\&#x98Ce;&#x673A;&#x76D8;&#x7BA1;&#x63A7;&#x5236;&#x5668;V1.6\&#x98Ce;&#x673A;&#x76D8;&#x7BA1;&#x63A7;&#x5236;&#x5668;\5_&#x8F6F;&#x4eF6;&#x8BBe;&#x8BA1;\(1)&#x6e90;&#x6587;&#x4eF6;&#x4e0e;&#x9879;&#x76ee;\FCU_B_Pro_V1.2\code\FC.c</Filename><XPos>0</XPos><YPos>554</YPos><SelStart>14794</SelStart><SelEnd>14794</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>E:\Work\&#x98Ce;&#x673A;&#x76D8;&#x7BA1;&#x63A7;&#x5236;&#x5668;\&#x98Ce;&#x673A;&#x76D8;&#x7BA1;&#x63A7;&#x5236;&#x5668;V1.6\&#x98Ce;&#x673A;&#x76D8;&#x7BA1;&#x63A7;&#x5236;&#x5668;\5_&#x8F6F;&#x4eF6;&#x8BBe;&#x8BA1;\(1)&#x6e90;&#x6587;&#x4eF6;&#x4e0e;&#x9879;&#x76ee;\FCU_B_Pro_V1.2\code\PID.c</Filename><XPos>0</XPos><YPos>95</YPos><SelStart>3624</SelStart><SelEnd>3624</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>E:\Work\&#x98Ce;&#x673A;&#x76D8;&#x7BA1;&#x63A7;&#x5236;&#x5668;\&#x98Ce;&#x673A;&#x76D8;&#x7BA1;&#x63A7;&#x5236;&#x5668;V1.6\&#x98Ce;&#x673A;&#x76D8;&#x7BA1;&#x63A7;&#x5236;&#x5668;\5_&#x8F6F;&#x4eF6;&#x8BBe;&#x8BA1;\(1)&#x6e90;&#x6587;&#x4eF6;&#x4e0e;&#x9879;&#x76ee;\FCU_B_Pro_V1.2\code\main.c</Filename><XPos>0</XPos><YPos>133</YPos><SelStart>2503</SelStart><SelEnd>2503</SelEnd></Tab><ActiveTab>3</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>E:\Work\&#x98Ce;&#x673A;&#x76D8;&#x7BA1;&#x63A7;&#x5236;&#x5668;\&#x98Ce;&#x673A;&#x76D8;&#x7BA1;&#x63A7;&#x5236;&#x5668;V1.6\&#x98Ce;&#x673A;&#x76D8;&#x7BA1;&#x63A7;&#x5236;&#x5668;\5_&#x8F6F;&#x4eF6;&#x8BBe;&#x8BA1;\(1)&#x6e90;&#x6587;&#x4eF6;&#x4e0e;&#x9879;&#x76ee;\FCU_B_Pro_V1.2\code\AvrAdc.c</Filename><XPos>0</XPos><YPos>77</YPos><SelStart>1766</SelStart><SelEnd>1766</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>E:\Work\&#x98Ce;&#x673A;&#x76D8;&#x7BA1;&#x63A7;&#x5236;&#x5668;\&#x98Ce;&#x673A;&#x76D8;&#x7BA1;&#x63A7;&#x5236;&#x5668;V1.6\&#x98Ce;&#x673A;&#x76D8;&#x7BA1;&#x63A7;&#x5236;&#x5668;\5_&#x8F6F;&#x4eF6;&#x8BBe;&#x8BA1;\(1)&#x6e90;&#x6587;&#x4eF6;&#x4e0e;&#x9879;&#x76ee;\FCU_B_Pro_V1.2\code\DIDrv.c</Filename><XPos>0</XPos><YPos>126</YPos><SelStart>3332</SelStart><SelEnd>3332</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>E:\Work\&#x98Ce;&#x673A;&#x76D8;&#x7BA1;&#x63A7;&#x5236;&#x5668;\&#x98Ce;&#x673A;&#x76D8;&#x7BA1;&#x63A7;&#x5236;&#x5668;V1.6\&#x98Ce;&#x673A;&#x76D8;&#x7BA1;&#x63A7;&#x5236;&#x5668;\5_&#x8F6F;&#x4eF6;&#x8BBe;&#x8BA1;\(1)&#x6e90;&#x6587;&#x4eF6;&#x4e0e;&#x9879;&#x76ee;\FCU_B_Pro_V1.2\code\StdMd.c</Filename><XPos>0</XPos><YPos>340</YPos><SelStart>7147</SelStart><SelEnd>7147</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>E:\Work\&#x98Ce;&#x673A;&#x76D8;&#x7BA1;&#x63A7;&#x5236;&#x5668;\&#x98Ce;&#x673A;&#x76D8;&#x7BA1;&#x63A7;&#x5236;&#x5668;V1.6\&#x98Ce;&#x673A;&#x76D8;&#x7BA1;&#x63A7;&#x5236;&#x5668;\5_&#x8F6F;&#x4eF6;&#x8BBe;&#x8BA1;\(1)&#x6e90;&#x6587;&#x4eF6;&#x4e0e;&#x9879;&#x76ee;\FCU_B_Pro_V1.2\code\CLModbus.c</Filename><XPos>0</XPos><YPos>13</YPos><SelStart>611</SelStart><SelEnd>611</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-007963d8><key>iaridepm.enu1</key></Toolbar-007963d8><Toolbar-07d97090><key>debuggergui.enu1</key></Toolbar-07d97090></Sizes></Row0></Top><Left><Row0><Sizes><Wnd4><Rect><Top>-2</Top><Left>-2</Left><Bottom>627</Bottom><Right>422</Right><x>-2</x><y>-2</y><xscreen>201</xscreen><yscreen>199</yscreen><sizeHorzCX>104688</sizeHorzCX><sizeHorzCY>203061</sizeHorzCY><sizeVertCX>220833</sizeVertCX><sizeVertCY>641837</sizeVertCY></Rect></Wnd4></Sizes></Row0></Left><Right><Row0><Sizes><Wnd5><Rect><Top>-2</Top><Left>-2</Left><Bottom>627</Bottom><Right>199</Right><x>-2</x><y>-2</y><xscreen>201</xscreen><yscreen>199</yscreen><sizeHorzCX>104688</sizeHorzCX><sizeHorzCY>203061</sizeHorzCY><sizeVertCX>104688</sizeVertCX><sizeVertCY>641837</sizeVertCY></Rect></Wnd5></Sizes></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>305</Bottom><Right>1922</Right><x>-2</x><y>-2</y><xscreen>1924</xscreen><yscreen>307</yscreen><sizeHorzCX>1002083</sizeHorzCX><sizeHorzCY>313265</sizeHorzCY><sizeVertCX>104688</sizeVertCX><sizeVertCY>203061</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+

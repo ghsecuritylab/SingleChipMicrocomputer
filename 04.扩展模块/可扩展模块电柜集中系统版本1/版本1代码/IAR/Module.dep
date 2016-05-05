@@ -1,0 +1,1235 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>1301633080</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\..\..\CLModbus.h</file>
+      <file>$PROJ_DIR$\..\code\DIDrv.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\FLS.r90</file>
+      <file>$PROJ_DIR$\..\code\LCD1621.c</file>
+      <file>$PROJ_DIR$\..\..\AvrUART.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\KEYLCD.pbi</file>
+      <file>$PROJ_DIR$\..\CRC.h</file>
+      <file>$PROJ_DIR$\..\..\FLSStatus.c</file>
+      <file>$PROJ_DIR$\..\..\_74LS165.h</file>
+      <file>$TOOLKIT_DIR$\inc\iomacro.h</file>
+      <file>$PROJ_DIR$\..\..\FLSshow.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\EEProm.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\FLSLAST\FLSLAST\FLSLAST\FLSMain.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\Timer.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\clib\stdarg.h</file>
+      <file>$PROJ_DIR$\..\code\typedef.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\AVReeprom.pbi</file>
+      <file>$PROJ_DIR$\..\code\LCDApp.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\DIDrv.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\Output.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\Input.r90</file>
+      <file>$PROJ_DIR$\..\..\includes.h</file>
+      <file>$PROJ_DIR$\Debug\List\Module.map</file>
+      <file>$PROJ_DIR$\..\CLModbus.h</file>
+      <file>$TOOLKIT_DIR$\inc\ioavr.h</file>
+      <file>$TOOLKIT_DIR$\inc\clib\sysmac.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\DIDrv.r90</file>
+      <file>$PROJ_DIR$\..\code\LCD.c</file>
+      <file>$TOOLKIT_DIR$\inc\clib\string.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\Timer.r90</file>
+      <file>$PROJ_DIR$\..\main.c</file>
+      <file>$TOOLKIT_DIR$\inc\clib\stdio.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\LCDApp.pbi</file>
+      <file>$PROJ_DIR$\..\code\AvrAdc.c</file>
+      <file>$PROJ_DIR$\..\..\_74LS165.c</file>
+      <file>$TOOLKIT_DIR$\inc\clib\stdbool.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\Ouput.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\ADC.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\ADC.pbi</file>
+      <file>$PROJ_DIR$\..\code\includes\typedef.h</file>
+      <file>$PROJ_DIR$\..\..\FLSMain.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\FLSVoice.pbi</file>
+      <file>$PROJ_DIR$\..\..\CRC.c</file>
+      <file>$PROJ_DIR$\..\..\CLModbus.c</file>
+      <file>$PROJ_DIR$\..\..\..\FLSLAST\FLSLAST\FLSLAST\Includes.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\FLSKeyTestCtrl.pbi</file>
+      <file>$PROJ_DIR$\..\code\FLSLCD.h</file>
+      <file>$PROJ_DIR$\..\code\AvrUART.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\Module.hex</file>
+      <file>$PROJ_DIR$\..\code\FFU.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\PWM.pbi</file>
+      <file>$PROJ_DIR$\..\code\AVR_UART.h</file>
+      <file>$PROJ_DIR$\..\Code\mian.c</file>
+      <file>$PROJ_DIR$\..\..\AVReeprom.c</file>
+      <file>$PROJ_DIR$\..\..\..\FLSLAST\FLSLAST\FLSLAST\FLSStatus.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\StdMd.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\FLSVoice.r90</file>
+      <file>$PROJ_DIR$\..\..\..\FLSLAST\FLSLAST\FLSLAST\FLSMain.h</file>
+      <file>$PROJ_DIR$\..\code\AVR_UART.c</file>
+      <file>$PROJ_DIR$\..\EEProm.h</file>
+      <file>$PROJ_DIR$\..\..\StdMd.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\AvrAdc.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\Input.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\FLSStatus.pbi</file>
+      <file>$PROJ_DIR$\Debug\Exe\Module.d90</file>
+      <file>$PROJ_DIR$\..\code\cpuTypedef.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\FLSshow.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\iom16.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\AvrEEp.pbi</file>
+      <file>$PROJ_DIR$\..\..\flsmain.h</file>
+      <file>$PROJ_DIR$\..\includes.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\FFU.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\FLSLAST\FLSLAST\FLSLAST\FLSshow.c</file>
+      <file>$TOOLKIT_DIR$\src\template\cfg3soim.xcl</file>
+      <file>$PROJ_DIR$\..\StdMd.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\Module.pbd</file>
+      <file>$PROJ_DIR$\Debug\Exe\CL_KB.d90</file>
+      <file>$PROJ_DIR$\Debug\Obj\LCD.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\AvrEEp.r90</file>
+      <file>$PROJ_DIR$\..\CLModbus.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\FFU.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\uart.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\PWM.r90</file>
+      <file>$PROJ_DIR$\..\..\FLSshow.h</file>
+      <file>$PROJ_DIR$\..\Code\Ouput.c</file>
+      <file>$PROJ_DIR$\..\StdMd.h</file>
+      <file>$PROJ_DIR$\..\code\KEYLCD.h</file>
+      <file>$PROJ_DIR$\..\..\AVReeprom.h</file>
+      <file>$PROJ_DIR$\..\main.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\Ouput.r90</file>
+      <file>$PROJ_DIR$\Debug\Exe\FFU.d90</file>
+      <file>$PROJ_DIR$\..\..\FLSKeyTestCtrl.c</file>
+      <file>$PROJ_DIR$\..\code\AvrEEp.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\LCD1621.pbi</file>
+      <file>$PROJ_DIR$\..\typedefs.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\FLSshow.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\..\code\includes\userMacros.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\CL_KB.pbd</file>
+      <file>$PROJ_DIR$\Debug\Obj\FLSMain.pbi</file>
+      <file>$PROJ_DIR$\..\..\FLSVoice.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\FLSKeyTestCtrl.r90</file>
+      <file>$PROJ_DIR$\..\..\StdMd.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\mian.pbi</file>
+      <file>$TOOLKIT_DIR$\src\template\cfgm16a.xcl</file>
+      <file>$PROJ_DIR$\..\code\AvrUART.c</file>
+      <file>$PROJ_DIR$\..\AvrUART.c</file>
+      <file>$PROJ_DIR$\..\..\..\FLSLAST\FLSLAST\FLSLAST\FLSKeyTestCtrl.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\AVR_UART.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\CLModbus.pbi</file>
+      <file>$PROJ_DIR$\..\..\FLSKeyTestCtrl.h</file>
+      <file>$PROJ_DIR$\..\..\FLSVoice.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\FLS.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\bitdefinitions\iom16a.inc</file>
+      <file>$PROJ_DIR$\..\code\LCDApp.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\uart.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\FLSMain.r90</file>
+      <file>$PROJ_DIR$\..\..\CRC.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\_74LS165.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\AvrUART.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\CRC.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\FFU.pbd</file>
+      <file>$PROJ_DIR$\Debug\Obj\AvrUART.r90</file>
+      <file>$PROJ_DIR$\..\code\AvrAdc.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\DiDo.r90</file>
+      <file>$PROJ_DIR$\..\DiDo.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\FLSStatus.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\AvrAdc.pbi</file>
+      <file>$PROJ_DIR$\..\code\FLS.h</file>
+      <file>$PROJ_DIR$\..\EEProm.c</file>
+      <file>$PROJ_DIR$\..\..\AvrUART.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\DiDo.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\_74LS165.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\iom16a.h</file>
+      <file>$PROJ_DIR$\main.c</file>
+      <file>$PROJ_DIR$\..\code\AvrEEp.c</file>
+      <file>$PROJ_DIR$\..\Defines.h</file>
+      <file>$PROJ_DIR$\..\CRC.c</file>
+      <file>$PROJ_DIR$\..\Code\Timer.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\Output.pbi</file>
+      <file>$PROJ_DIR$\..\code\FFU.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\AVReeprom.r90</file>
+      <file>$PROJ_DIR$\..\AvrUART.h</file>
+      <file>$PROJ_DIR$\..\DiDo.h</file>
+      <file>$PROJ_DIR$\..\code\KEYLCD.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\EEProm.r90</file>
+      <file>$TOOLKIT_DIR$\inc\intrinsics.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\CLModbus.r90</file>
+      <file>$PROJ_DIR$\..\..\flsstatus.h</file>
+      <file>$PROJ_DIR$\..\code\FLS.c</file>
+      <file>$TOOLKIT_DIR$\lib\clib\cl3s-ec_mul-sf.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\LCDApp.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\StdMd.pbi</file>
+      <file>$PROJ_DIR$\..\code\DIDrv.c</file>
+      <file>$PROJ_DIR$\..\Code\uart.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\CRC.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\LCD1621.r90</file>
+      <file>$PROJ_DIR$\..\Code\Input.h</file>
+      <file>$PROJ_DIR$\..\Code\Timer.c</file>
+      <file>$PROJ_DIR$\..\Code\main.h</file>
+      <file>$PROJ_DIR$\..\Code\Output.h</file>
+      <file>$PROJ_DIR$\..\Code\PWM.c</file>
+      <file>$PROJ_DIR$\..\Code\PWM.h</file>
+      <file>$PROJ_DIR$\..\Code\CRC.c</file>
+      <file>$PROJ_DIR$\..\Code\EEProm.h</file>
+      <file>$PROJ_DIR$\..\Code\StdMd.h</file>
+      <file>$PROJ_DIR$\..\Code\Input.c</file>
+      <file>$PROJ_DIR$\..\Code\ADC.c</file>
+      <file>$PROJ_DIR$\..\Code\Output.c</file>
+      <file>$PROJ_DIR$\..\Code\CLModbus.c</file>
+      <file>$PROJ_DIR$\..\Code\EEProm.c</file>
+      <file>$PROJ_DIR$\..\Code\main.c</file>
+      <file>$PROJ_DIR$\..\Code\StdMd.c</file>
+      <file>$PROJ_DIR$\..\Code\ADC.h</file>
+      <file>$PROJ_DIR$\..\Code\CLModbus.h</file>
+      <file>$PROJ_DIR$\..\Code\CRC.h</file>
+      <file>$PROJ_DIR$\..\Code\uart.c</file>
+      <file>$PROJ_DIR$\..\Code\includes.h</file>
+    </outputs>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 64 22 48</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\code\LCD1621.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 93</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 157</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 178 24 133 9 113 67 146 31 14 25 35 15 160 46 65 86 128 17 51</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 178 24 133 9 113 67 146 31 14 25 35 15 160 46 65 86 128 17 51</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\AvrUART.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 119</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 122</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 21 69 24 133 9 113 146 31 14 25 35 148 83 110 100 8 117 87 0 130 102</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\FLSStatus.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 63</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 126</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 21 69 24 133 9 113 146 31 14 25 35 148 83 110 100 8 117 87 0 130 102</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\FLSshow.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 66</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 95</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 21 69 24 133 9 113 146 31 14 25 35 148 83 110 100 8 117 87 0 130 102</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\FLSLAST\FLSLAST\FLSLAST\FLSMain.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 99</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 116</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 44 57</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\code\LCD.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 77</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 15</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 96</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 155</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 70 24 133 9 113 146 31 14 25 35 136 94 6 88 143 59 23 142 85</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\code\AvrAdc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 127</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 61</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 178 24 133 9 113 146 31 14 25 35 39 97 160 47 175 176 140 166 1 92 123</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 178 24 133 9 113 146 31 14 25 35 39 97 160 47 175 176 140 166 1 92 123</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\_74LS165.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 132</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 118</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 21 69 24 133 9 113 146 31 14 25 35 148 83 110 100 8 117 87 0 130 102</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\FLSMain.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 99</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 116</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 21 69 24 133 9 113 146 31 14 25 35 148 83 110 100 8 117 87 0 130 102</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\CRC.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 120</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 156</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 21 69 24 133 9 113 146 31 14 25 35 148 83 110 100 8 117 87 0 130 102</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\CLModbus.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 109</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 147</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 21 69 24 133 9 113 146 31 14 25 35 148 83 110 100 8 117 87 0 130 102</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\code\FFU.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 71</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 80</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 178 24 133 9 113 146 31 14 25 35 39 97 160 47 175 176 140 166 1 92 123</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 178 24 133 9 113 146 31 14 25 35 39 97 160 47 175 176 140 166 1 92 123</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Code\mian.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 103</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 178 24 133 9 113 31 14 25 35</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 178 24 133 9 113 31 14 25 35</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\AVReeprom.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 16</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 141</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 21 69 24 133 9 113 146 31 14 25 35 148 83 110 100 8 117 87 0 130 102</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\FLSLAST\FLSLAST\FLSLAST\FLSStatus.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 63</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 126</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 44 57</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\code\AVR_UART.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 108</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 178 24 133 9 113 67 146 31 14 25 35 15 160 46 65 86 128 17 51</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 178 24 133 9 113 67 146 31 14 25 35 15 160 46 65 86 128 17 51</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\StdMd.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 152</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 55</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 21 69 24 133 9 113 146 31 14 25 35 148 83 110 100 8 117 87 0 130 102</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\Module.d90</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 22 48</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 104 73 37 147 156 145 20 19 82 55 29 155 81 150</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\FLSLAST\FLSLAST\FLSLAST\FLSshow.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 66</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 95</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 44 57</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\StdMd.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 152</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 55</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 70 24 133 9 113 146 31 14 25 35 136 94 6 88 143 59 23 142 85</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Obj\Module.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 38 109 120 11 62 139 50 152 13 96 115</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\CL_KB.d90</name>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 104 73 37 147 156 145 20 19 82 55 29 155 81 150</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\CLModbus.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 109</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 147</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 70 24 133 9 113 146 31 14 25 35 136 94 6 88 143 59 23 142 85</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Code\Ouput.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 36</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 89</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 178 24 133 9 113 31 14 25 35 28 160 154 176 175 166 158 161 174 163</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 178 24 133 9 113 31 14 25 35 28 160 154 176 175 166 158 161 174 163</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\FFU.d90</name>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 104 73 141 122 147 156 101 116 126 56 95 55 118 150</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\FLSKeyTestCtrl.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 45</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 101</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 21 69 24 133 9 113 146 31 14 25 35 148 83 110 100 8 117 87 0 130 102</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Obj\CL_KB.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 38 109 120 11 62 139 50 152 13 96 115</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\code\AvrUART.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 119</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 122</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 178 24 133 9 113 146 31 14 25 35 39 97 160 47 175 176 140 166 1 92 123</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 178 24 133 9 113 146 31 14 25 35 39 97 160 47 175 176 140 166 1 92 123</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\AvrUART.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 119</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 122</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 70 24 133 9 113 146 31 14 25 35 136 94 6 88 143 59 23 142 85</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\FLSLAST\FLSLAST\FLSLAST\FLSKeyTestCtrl.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 45</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 101</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 44 57</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\FLSVoice.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 41</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 56</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 21 69 24 133 9 113 146 31 14 25 35 148 83 110 100 8 117 87 0 130 102</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\code\LCDApp.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 32</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 151</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 178 24 133 9 113 67 146 31 14 25 35 15 160 46 65 86 128 17 51</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 178 24 133 9 113 67 146 31 14 25 35 15 160 46 65 86 128 17 51</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Obj\FFU.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 16 119 109 120 45 99 63 41 66 152 132</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\DiDo.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 131</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 124</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 70 24 133 9 113 146 31 14 25 35 136 94 6 88 143 59 23 142 85</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\EEProm.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 11</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 145</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 70 24 133 9 113 146 31 14 25 35 136 94 6 88 143 59 23 142 85</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 96</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 155</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\code\AvrEEp.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 68</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 78</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 178 24 133 9 113 146 31 14 25 35 39 97 160 47 175 176 140 166 1 92 123</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 178 24 133 9 113 146 31 14 25 35 39 97 160 47 175 176 140 166 1 92 123</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\CRC.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 120</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 156</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 70 24 133 9 113 146 31 14 25 35 136 94 6 88 143 59 23 142 85</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\code\KEYLCD.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 5</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 178 24 133 9 113 67 146 31 14 25 35 15 160 46 65 86 128 17 51</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 178 24 133 9 113 67 146 31 14 25 35 15 160 46 65 86 128 17 51</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\code\FLS.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 112</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 2</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 178 24 133 9 113 67 146 31 14 25 35 15 160 46 65 86 128 17 51</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 178 24 133 9 113 67 146 31 14 25 35 15 160 46 65 86 128 17 51</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\code\DIDrv.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 18</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 26</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 178 24 133 9 113 146 31 14 25 35 39 97 160 47 175 176 140 166 1 92 123</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 178 24 133 9 113 146 31 14 25 35 39 97 160 47 175 176 140 166 1 92 123</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Code\Timer.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 13</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 29</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 178 24 133 9 113 146 31 14 25 35 28 160 138 154 176 175 166 158 161 174 163 165</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 178 24 133 9 113 146 31 14 25 35 28 160 138 154 176 175 166 158 161 174 163 165</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Code\PWM.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 50</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 82</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 178 24 133 9 113 146 31 14 25 35 28 160 138 154 176 175 166 158 161 174 163 165</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 178 24 133 9 113 146 31 14 25 35 28 160 138 154 176 175 166 158 161 174 163 165</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Code\CRC.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 120</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 156</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 178 24 133 9 113 146 31 14 25 35 28 160 138 154 176 175 166 158 161 174 163 165</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 178 24 133 9 113 146 31 14 25 35 28 160 138 154 176 175 166 158 161 174 163 165</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Code\Input.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 62</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 20</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 178 24 133 9 113 146 31 14 25 35 28 160 138 154 176 175 166 158 161 174 163 165</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 178 24 133 9 113 146 31 14 25 35 28 160 138 154 176 175 166 158 161 174 163 165</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Code\ADC.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 38</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 37</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 178 24 133 9 113 146 31 14 25 35 28 160 138 154 176 175 166 158 161 174 163 165</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 178 24 133 9 113 146 31 14 25 35 28 160 138 154 176 175 166 158 161 174 163 165</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Code\Output.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 139</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 19</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 178 24 133 9 113 146 31 14 25 35 28 160 138 154 176 175 166 158 161 174 163 165</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 178 24 133 9 113 146 31 14 25 35 28 160 138 154 176 175 166 158 161 174 163 165</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Code\CLModbus.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 109</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 147</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 178 24 133 9 113 146 31 14 25 35 28 160 138 154 176 175 166 158 161 174 163 165</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 178 24 133 9 113 146 31 14 25 35 28 160 138 154 176 175 166 158 161 174 163 165</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Code\EEProm.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 11</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 145</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 178 24 133 9 113 146 31 14 25 35 28 160 138 154 176 175 166 158 161 174 163 165</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 178 24 133 9 113 146 31 14 25 35 28 160 138 154 176 175 166 158 161 174 163 165</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Code\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 96</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 155</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 178 24 133 9 113 146 31 14 25 35 28 160 138 154 176 175 166 158 161 174 163 165</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 178 24 133 9 113 146 31 14 25 35 28 160 138 154 176 175 166 158 161 174 163 165</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Code\StdMd.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 152</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 55</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 178 24 133 9 113 146 31 14 25 35 28 160 138 154 176 175 166 158 161 174 163 165</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 178 24 133 9 113 146 31 14 25 35 28 160 138 154 176 175 166 158 161 174 163 165</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Code\uart.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 115</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 81</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 178 24 133 9 113 146 31 14 25 35 28 160 138 154 176 175 166 158 161 174 163 165</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 178 24 133 9 113 146 31 14 25 35 28 160 138 154 176 175 166 158 161 174 163 165</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>XLINK</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>[REBUILD_ALL]</name>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+

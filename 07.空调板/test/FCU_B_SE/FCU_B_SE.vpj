@@ -1,0 +1,107 @@
+<!DOCTYPE Project SYSTEM "http://www.slickedit.com/dtd/vse/10.0/vpj.dtd">
+<Project
+    WorkingDir="."
+    Version="10.0"
+    VendorName="SlickEdit"
+    TemplateName="Ch">
+    <CustomFolders>
+        <Folder
+            Name="Source Files"
+            Filters="*.ch;*.chs;*.chf;*.cpp"/>
+        <Folder
+            Name="Header Files"
+            Filters="*.h"></Folder>
+        <Folder
+            Name="Resource Files"
+            Filters=""/>
+        <Folder
+            Name="Bitmaps"
+            Filters=""/>
+        <Folder
+            Name="Other Files"
+            Filters=""/>
+    </CustomFolders>
+    <Config
+        Name="Release"
+        OutputFile=""
+        CompilerConfigName="">
+        <Menu>
+            <Target
+                Name="Compile"
+                MenuCaption="&amp;Compile"
+                CaptureOutputWith="ProcessBuffer"
+                SaveOption="SaveCurrent"
+                RunFromDir="%rw">
+                <Exec CmdLine="ch -n %n%e"/>
+            </Target>
+            <Target
+                Name="Build"
+                MenuCaption="&amp;Build"
+                CaptureOutputWith="ProcessBuffer"
+                SaveOption="SaveWorkspaceFiles"
+                RunFromDir="%rw">
+                <Exec CmdLine="ch -n %n%e"/>
+            </Target>
+            <Target
+                Name="Rebuild"
+                MenuCaption="&amp;Rebuild"
+                CaptureOutputWith="ProcessBuffer"
+                SaveOption="SaveWorkspaceFiles"
+                RunFromDir="%rw">
+                <Exec/>
+            </Target>
+            <Target
+                Name="Debug"
+                MenuCaption="&amp;Debug"
+                SaveOption="SaveNone"
+                RunFromDir="%rw">
+                <Exec/>
+            </Target>
+            <Target
+                Name="Execute"
+                MenuCaption="E&amp;xecute"
+                SaveOption="SaveNone"
+                RunFromDir="%rw"
+                CaptureOutputWith="ProcessBuffer">
+                <Exec CmdLine="ch %n%e"/>
+            </Target>
+        </Menu>
+    </Config>
+    <Files AutoFolders="DirectoryView">
+        <Folder Name="../code">
+            <Folder Name="Board">
+                <F N="../code/Board/iodef.h"/>
+            </Folder>
+            <Folder Name="includes">
+                <F N="../code/includes/typedef.h"/>
+                <F N="../code/includes/userMacros.h"/>
+            </Folder>
+            <F N="../code/AvrAdc.c"/>
+            <F N="../code/AvrAdc.h"/>
+            <F N="../code/AvrEEp.c"/>
+            <F N="../code/AvrEEp.h"/>
+            <F N="../code/AvrUART.c"/>
+            <F N="../code/AvrUART.h"/>
+            <F N="../code/CLModbus.c"/>
+            <F N="../code/CLModbus.h"/>
+            <F N="../code/CRC.c"/>
+            <F N="../code/CRC.h"/>
+            <F N="../code/DIDrv.c"/>
+            <F N="../code/DIDrv.h"/>
+            <F N="../code/FC.c"/>
+            <F N="../code/FC.h"/>
+            <F N="../code/includes.h"/>
+            <F N="../code/iom16a.h"/>
+            <F N="../code/LcdDis.c"/>
+            <F N="../code/LcdDis.h"/>
+            <F N="../code/main.c"/>
+            <F N="../code/main.h"/>
+            <F N="../code/PID.c"/>
+            <F N="../code/PID.h"/>
+            <F N="../code/PWM.c"/>
+            <F N="../code/PWM.h"/>
+            <F N="../code/StdMd.c"/>
+            <F N="../code/StdMd.h"/>
+        </Folder>
+    </Files>
+</Project>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>FFU/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>480</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>915</ColumnWidth1><ColumnWidth2>244</ColumnWidth2><ColumnWidth3>61</ColumnWidth3></Build>
+      <TerminalIO/>
+    <Disassembly><MixedMode>1</MixedMode><CodeCovShow>0</CodeCovShow><InstrProfShow>0</InstrProfShow></Disassembly><Find-in-Files><ColumnWidth0>440</ColumnWidth0><ColumnWidth1>62</ColumnWidth1><ColumnWidth2>754</ColumnWidth2></Find-in-Files></Static>
+    <Windows>
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-3554-8972</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>FFU</ExpandedNode><ExpandedNode>FFU/CODE</ExpandedNode><ExpandedNode>FFU/CommHeader</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-25050-8978</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-2594-21608</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>E:\&#x98Ce;&#x6DCB;&#x5BA4;\FLS code\FLSVoice.h</Filename><XPos>0</XPos><YPos>9</YPos><SelStart>323</SelStart><SelEnd>323</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>E:\&#x98Ce;&#x6DCB;&#x5BA4;\FLS code\includes.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>301</SelStart><SelEnd>301</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>E:\&#x98Ce;&#x6DCB;&#x5BA4;\FLS code\AvrUART.c</Filename><XPos>0</XPos><YPos>18</YPos><SelStart>588</SelStart><SelEnd>588</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>E:\&#x98Ce;&#x6DCB;&#x5BA4;\FLS code\flsmain.h</Filename><XPos>0</XPos><YPos>66</YPos><SelStart>1920</SelStart><SelEnd>1920</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>E:\&#x98Ce;&#x6DCB;&#x5BA4;\FLS code\_74LS165.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>1283</SelStart><SelEnd>1283</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>E:\&#x98Ce;&#x6DCB;&#x5BA4;\FLS code\AVReeprom.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>E:\&#x98Ce;&#x6DCB;&#x5BA4;\FLS code\CLModbus.c</Filename><XPos>0</XPos><YPos>15</YPos><SelStart>942</SelStart><SelEnd>942</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>E:\&#x98Ce;&#x6DCB;&#x5BA4;\FLS code\CRC.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>358</SelStart><SelEnd>358</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>E:\&#x98Ce;&#x6DCB;&#x5BA4;\FLS code\FLSKeyTestCtrl.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>E:\&#x98Ce;&#x6DCB;&#x5BA4;\FLS code\FLSMain.c</Filename><XPos>0</XPos><YPos>63</YPos><SelStart>2200</SelStart><SelEnd>2200</SelEnd></Tab><ActiveTab>9</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>E:\&#x98Ce;&#x6DCB;&#x5BA4;\FLS code\FLSshow.c</Filename><XPos>0</XPos><YPos>93</YPos><SelStart>7147</SelStart><SelEnd>7147</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>E:\&#x98Ce;&#x6DCB;&#x5BA4;\FLS code\FLSStatus.c</Filename><XPos>0</XPos><YPos>15</YPos><SelStart>774</SelStart><SelEnd>799</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>E:\&#x98Ce;&#x6DCB;&#x5BA4;\FLS code\FLSVoice.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>E:\&#x98Ce;&#x6DCB;&#x5BA4;\FLS code\StdMd.c</Filename><XPos>0</XPos><YPos>98</YPos><SelStart>1770</SelStart><SelEnd>1770</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>E:\&#x98Ce;&#x6DCB;&#x5BA4;\FLS code\flsstatus.h</Filename><XPos>0</XPos><YPos>28</YPos><SelStart>816</SelStart><SelEnd>816</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-01cec8c0><key>iaridepm.enu1</key></Toolbar-01cec8c0></Sizes></Row0></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>548</Bottom><Right>571</Right><x>-2</x><y>-2</y><xscreen>407</xscreen><yscreen>407</yscreen><sizeHorzCX>211979</sizeHorzCX><sizeHorzCY>407816</sizeHorzCY><sizeVertCX>298438</sizeVertCX><sizeVertCY>551102</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>405</Bottom><Right>1922</Right><x>-2</x><y>-2</y><xscreen>1924</xscreen><yscreen>407</yscreen><sizeHorzCX>1002083</sizeHorzCX><sizeHorzCY>407816</sizeHorzCY><sizeVertCX>211979</sizeVertCX><sizeVertCY>407816</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+

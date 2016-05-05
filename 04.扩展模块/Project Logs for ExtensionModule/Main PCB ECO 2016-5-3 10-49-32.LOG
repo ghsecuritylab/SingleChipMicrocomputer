@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NetD4_2 Pin=R11-1
+Removed Pin From Net: NetName=NetQ3_1 Pin=R11-2
+Change Component Footprint: Designator=Q1 Old Footprint=SOT_23 New Footprint=SOT23
+Change Component Footprint: Designator=Q2 Old Footprint=SOT_23 New Footprint=SOT23
+Change Component Footprint: Designator=Q3 Old Footprint=SOT_23 New Footprint=SOT23
+Change Component Footprint: Designator=Q4AO_M1 Old Footprint=SOT_23 New Footprint=SOT23
+Change Component Footprint: Designator=Q4AO_M2 Old Footprint=SOT_23 New Footprint=SOT23
+Change Component Footprint: Designator=Q4AO_M3 Old Footprint=SOT_23 New Footprint=SOT23
+Change Component Footprint: Designator=Q4AO_M4 Old Footprint=SOT_23 New Footprint=SOT23
+Change Component Footprint: Designator=Q5AO_M1 Old Footprint=SOT_23 New Footprint=SOT23
+Change Component Footprint: Designator=Q5AO_M2 Old Footprint=SOT_23 New Footprint=SOT23
+Change Component Footprint: Designator=Q5AO_M3 Old Footprint=SOT_23 New Footprint=SOT23
+Change Component Footprint: Designator=Q5AO_M4 Old Footprint=SOT_23 New Footprint=SOT23
+Added Pin To Net: NetName=NetQ3_1 Pin=R11-1
+Added Pin To Net: NetName=NetD4_2 Pin=R11-2

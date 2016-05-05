@@ -1,0 +1,349 @@
+<!DOCTYPE Project SYSTEM "http://www.slickedit.com/dtd/vse/10.0/vpj.dtd">
+<Project
+    Version="10.0"
+    VendorName="SlickEdit"
+    TemplateName="GNU C/C++"
+    WorkingDir="."
+    BuildSystem="vsbuild">
+    <Config
+        Name="Debug"
+        Type="gnuc"
+        DebugCallbackName="gdb"
+        Version="1"
+        OutputFile="%bdPOLX.exe"
+        CompilerConfigName="Latest Version">
+        <Menu>
+            <Target
+                Name="Compile"
+                MenuCaption="&amp;Compile"
+                Dialog="_gnuc_options_form Compile"
+                CaptureOutputWith="ProcessBuffer"
+                Deletable="0"
+                OutputExts="*.o"
+                SaveOption="SaveCurrent"
+                RunFromDir="%rw">
+                <Exec CmdLine='gcc -c %xup  %defd -g -o "%bd%n%oe" %i "%f"'/>
+            </Target>
+            <Target
+                Name="Link"
+                MenuCaption="&amp;Link"
+                ShowOnMenu="Never"
+                Dialog="_gnuc_options_form Link"
+                CaptureOutputWith="ProcessBuffer"
+                Deletable="0"
+                SaveOption="SaveCurrent"
+                RunFromDir="%rw">
+                <Exec CmdLine='gcc %xup -g -o "%o" %f %libs'/>
+            </Target>
+            <Target
+                Name="Build"
+                MenuCaption="&amp;Build"
+                Dialog="_gnuc_options_form Compile"
+                CaptureOutputWith="ProcessBuffer"
+                Deletable="0"
+                SaveOption="SaveWorkspaceFiles"
+                RunFromDir="%rw">
+                <Exec CmdLine='"%(VSLICKBIN1)vsbuild" "%w" "%r" -t build'/>
+            </Target>
+            <Target
+                Name="Rebuild"
+                MenuCaption="&amp;Rebuild"
+                Dialog="_gnuc_options_form Compile"
+                CaptureOutputWith="ProcessBuffer"
+                Deletable="0"
+                SaveOption="SaveWorkspaceFiles"
+                RunFromDir="%rw">
+                <Exec CmdLine='"%(VSLICKBIN1)vsbuild" "%w" "%r" -t rebuild'/>
+            </Target>
+            <Target
+                Name="Debug"
+                MenuCaption="&amp;Debug"
+                Dialog="_gnuc_options_form Run/Debug"
+                BuildFirst="1"
+                CaptureOutputWith="ProcessBuffer"
+                Deletable="0"
+                SaveOption="SaveNone"
+                RunFromDir="%rw">
+                <Exec CmdLine='vsdebugio -prog "%o"'/>
+            </Target>
+            <Target
+                Name="Execute"
+                MenuCaption="E&amp;xecute"
+                Dialog="_gnuc_options_form Run/Debug"
+                BuildFirst="1"
+                CaptureOutputWith="ProcessBuffer"
+                Deletable="0"
+                SaveOption="SaveWorkspaceFiles"
+                RunFromDir="%rw">
+                <Exec CmdLine='"%o"'/>
+            </Target>
+            <Target
+                Name="dash"
+                MenuCaption="-"
+                Deletable="0">
+                <Exec/>
+            </Target>
+            <Target
+                Name="GNU C Options"
+                MenuCaption="GNU C &amp;Options..."
+                ShowOnMenu="HideIfNoCmdLine"
+                Deletable="0"
+                SaveOption="SaveNone">
+                <Exec
+                    CmdLine="gnucoptions"
+                    Type="Slick-C"/>
+            </Target>
+        </Menu>
+        <List Name="GNUC Options">
+            <Item
+                Name="LinkerOutputType"
+                Value="Executable"/>
+        </List>
+    </Config>
+    <Config
+        Name="Release"
+        Type="gnuc"
+        DebugCallbackName="gdb"
+        Version="1"
+        OutputFile="%bdPOLX.exe"
+        CompilerConfigName="Latest Version">
+        <Menu>
+            <Target
+                Name="Compile"
+                MenuCaption="&amp;Compile"
+                Dialog="_gnuc_options_form Compile"
+                CaptureOutputWith="ProcessBuffer"
+                Deletable="0"
+                OutputExts="*.o"
+                SaveOption="SaveCurrent"
+                RunFromDir="%rw">
+                <Exec CmdLine='gcc -c %xup %defd -o "%bd%n%oe" %i "%f"'/>
+            </Target>
+            <Target
+                Name="Link"
+                MenuCaption="&amp;Link"
+                ShowOnMenu="Never"
+                Dialog="_gnuc_options_form Link"
+                CaptureOutputWith="ProcessBuffer"
+                Deletable="0"
+                SaveOption="SaveCurrent"
+                RunFromDir="%rw">
+                <Exec CmdLine='gcc %xup -o "%o" %f %libs'/>
+            </Target>
+            <Target
+                Name="Build"
+                MenuCaption="&amp;Build"
+                Dialog="_gnuc_options_form Compile"
+                CaptureOutputWith="ProcessBuffer"
+                Deletable="0"
+                SaveOption="SaveWorkspaceFiles"
+                RunFromDir="%rw">
+                <Exec CmdLine='"%(VSLICKBIN1)vsbuild" "%w" "%r" -t build'/>
+            </Target>
+            <Target
+                Name="Rebuild"
+                MenuCaption="&amp;Rebuild"
+                Dialog="_gnuc_options_form Compile"
+                CaptureOutputWith="ProcessBuffer"
+                Deletable="0"
+                SaveOption="SaveWorkspaceFiles"
+                RunFromDir="%rw">
+                <Exec CmdLine='"%(VSLICKBIN1)vsbuild" "%w" "%r" -t rebuild'/>
+            </Target>
+            <Target
+                Name="Debug"
+                MenuCaption="&amp;Debug"
+                Dialog="_gnuc_options_form Run/Debug"
+                BuildFirst="1"
+                CaptureOutputWith="ProcessBuffer"
+                Deletable="0"
+                SaveOption="SaveNone"
+                RunFromDir="%rw">
+                <Exec CmdLine='vsdebugio -prog "%o"'/>
+            </Target>
+            <Target
+                Name="Execute"
+                MenuCaption="E&amp;xecute"
+                Dialog="_gnuc_options_form Run/Debug"
+                BuildFirst="1"
+                CaptureOutputWith="ProcessBuffer"
+                Deletable="0"
+                SaveOption="SaveWorkspaceFiles"
+                RunFromDir="%rw">
+                <Exec CmdLine='"%o"'/>
+            </Target>
+            <Target
+                Name="dash"
+                MenuCaption="-"
+                Deletable="0">
+                <Exec/>
+            </Target>
+            <Target
+                Name="GNU C Options"
+                MenuCaption="GNU C &amp;Options..."
+                ShowOnMenu="HideIfNoCmdLine"
+                Deletable="0"
+                SaveOption="SaveNone">
+                <Exec
+                    CmdLine="gnucoptions"
+                    Type="Slick-C"/>
+            </Target>
+        </Menu>
+        <List Name="GNUC Options">
+            <Item
+                Name="LinkerOutputType"
+                Value="Executable"/>
+        </List>
+    </Config>
+    <Files>
+        <Folder
+            Name="Source Files"
+            Filters="*.c;*.C;*.cc;*.cpp;*.cp;*.cxx;*.c++;*.prg;*.pas;*.dpr;*.asm;*.s;*.bas;*.java;*.cs;*.sc;*.e;*.cob;*.html;*.rc;*.tcl;*.py;*.pl;*.d;*.m;*.mm;*.go">
+            <F N="../Code/74hc165.c"/>
+            <F N="../Code/adc.c"/>
+            <F N="../applications/application.c"/>
+            <F N="../Code/base.c"/>
+            <F N="../drivers/board.c"/>
+            <F N="../Modbus/CApp.c"/>
+            <F N="../Modbus/CLModbus.c"/>
+            <F N="../Libraries/CMSIS/CM3/CoreSupport/core_cm3.c"/>
+            <F N="../Code/CptRun.c"/>
+            <F N="../Modbus/CRC.c"/>
+            <F N="../Logic/Ctrl.c"/>
+            <F N="../Modbus/DeviceDeal.c"/>
+            <F N="../drivers/dm9000a.c"/>
+            <F N="../Flash/eeprom.c"/>
+            <F N="../Code/ExHal.c"/>
+            <F N="../Flash/FlashSave.c"/>
+            <F N="../drivers/gpio.c"/>
+            <F N="../Code/HwPanel.c"/>
+            <F N="../Flash/iap_flash.c"/>
+            <F N="../drivers/ili_lcd_general.c"/>
+            <F N="../applications/it.c"/>
+            <F N="../drivers/led.c"/>
+            <F N="../Code/LEDs.c"/>
+            <F N="../Libraries/STM32F10x_StdPeriph_Driver/src/misc.c"/>
+            <F N="../Flash/ParSave.c"/>
+            <F N="../Logic/pid.c"/>
+            <F N="../Code/PolMd.c"/>
+            <F N="../Code/PWM.c"/>
+            <F N="../Code/Relay.c"/>
+            <F N="../drivers/rtc.c"/>
+            <F N="../drivers/sdcard.c"/>
+            <F N="../drivers/ssd1289.c"/>
+            <F N="../applications/startup.c"/>
+            <F N="../Logic/Status.c"/>
+            <F N="../Code/StdMd.c"/>
+            <F N="../Libraries/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.c"/>
+            <F N="../Libraries/STM32F10x_StdPeriph_Driver/src/stm32f10x_bkp.c"/>
+            <F N="../Libraries/STM32F10x_StdPeriph_Driver/src/stm32f10x_can.c"/>
+            <F N="../Libraries/STM32F10x_StdPeriph_Driver/src/stm32f10x_cec.c"/>
+            <F N="../Libraries/STM32F10x_StdPeriph_Driver/src/stm32f10x_crc.c"/>
+            <F N="../Libraries/STM32F10x_StdPeriph_Driver/src/stm32f10x_dac.c"/>
+            <F N="../Libraries/STM32F10x_StdPeriph_Driver/src/stm32f10x_dbgmcu.c"/>
+            <F N="../Libraries/STM32F10x_StdPeriph_Driver/src/stm32f10x_dma.c"/>
+            <F N="../Libraries/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.c"/>
+            <F N="../Libraries/STM32F10x_StdPeriph_Driver/src/stm32f10x_flash.c"/>
+            <F N="../Libraries/STM32F10x_StdPeriph_Driver/src/stm32f10x_fsmc.c"/>
+            <F N="../Libraries/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.c"/>
+            <F N="../Libraries/STM32F10x_StdPeriph_Driver/src/stm32f10x_i2c.c"/>
+            <F N="../drivers/stm32f10x_it.c"/>
+            <F N="../Libraries/STM32F10x_StdPeriph_Driver/src/stm32f10x_iwdg.c"/>
+            <F N="../Libraries/STM32F10x_StdPeriph_Driver/src/stm32f10x_pwr.c"/>
+            <F N="../Libraries/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c"/>
+            <F N="../Libraries/STM32F10x_StdPeriph_Driver/src/stm32f10x_rtc.c"/>
+            <F N="../Libraries/STM32F10x_StdPeriph_Driver/src/stm32f10x_sdio.c"/>
+            <F N="../Libraries/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.c"/>
+            <F N="../Libraries/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.c"/>
+            <F N="../Libraries/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.c"/>
+            <F N="../Libraries/STM32F10x_StdPeriph_Driver/src/stm32f10x_wwdg.c"/>
+            <F N="../Libraries/CMSIS/CM3/DeviceSupport/ST/STM32F10x/system_stm32f10x.c"/>
+            <F N="../drivers/touch.c"/>
+            <F N="../drivers/UartTrace.c"/>
+            <F N="../drivers/usart.c"/>
+        </Folder>
+        <Folder
+            Name="Header Files"
+            Filters="*.h;*.H;*.hh;*.hpp;*.hxx;*.inc;*.sh;*.cpy;*.if">
+            <F N="../Code/74hc165.h"/>
+            <F N="../Code/adc.h"/>
+            <F N="../Head/BaseTypes.h"/>
+            <F N="../drivers/board.h"/>
+            <F N="../Modbus/CApp.h"/>
+            <F N="../Modbus/CLModbus.h"/>
+            <F N="../Head/constdef.h"/>
+            <F N="../Libraries/CMSIS/CM3/CoreSupport/core_cm3.h"/>
+            <F N="../Code/CptRun.h"/>
+            <F N="../Modbus/CRC.h"/>
+            <F N="../Logic/Ctrl.h"/>
+            <F N="../Modbus/DeviceDeal.h"/>
+            <F N="../drivers/dm9000a.h"/>
+            <F N="../Flash/eeprom.h"/>
+            <F N="../Code/ExHal.h"/>
+            <F N="../Flash/FlashSave.h"/>
+            <F N="../drivers/gpio.h"/>
+            <F N="../Head/HardwareConfig.h"/>
+            <F N="../Code/HwPanel.h"/>
+            <F N="../Flash/iap_flash.h"/>
+            <F N="../drivers/ili_lcd_general.h"/>
+            <F N="../drivers/includes.h"/>
+            <F N="../drivers/led.h"/>
+            <F N="../Code/LEDs.h"/>
+            <F N="../Libraries/STM32F10x_StdPeriph_Driver/inc/misc.h"/>
+            <F N="../Head/misc_me.h"/>
+            <F N="../Flash/ParSave.h"/>
+            <F N="../Logic/pid.h"/>
+            <F N="../Code/PolMd.h"/>
+            <F N="../Code/PWM.h"/>
+            <F N="../Code/Relay.h"/>
+            <F N="../Code/rtc.h"/>
+            <F N="../drivers/rtc.h"/>
+            <F N="../rtconfig.h"/>
+            <F N="../drivers/sdcard.h"/>
+            <F N="../drivers/ssd1289.h"/>
+            <F N="../Logic/Status.h"/>
+            <F N="../Head/stdbool.h"/>
+            <F N="../Code/StdMd.h"/>
+            <F N="../Libraries/CMSIS/CM3/DeviceSupport/ST/STM32F10x/stm32f10x.h"/>
+            <F N="../Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_adc.h"/>
+            <F N="../Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_bkp.h"/>
+            <F N="../Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_can.h"/>
+            <F N="../Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_cec.h"/>
+            <F N="../drivers/stm32f10x_conf.h"/>
+            <F N="../Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_crc.h"/>
+            <F N="../Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_dac.h"/>
+            <F N="../Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_dbgmcu.h"/>
+            <F N="../Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_dma.h"/>
+            <F N="../Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_exti.h"/>
+            <F N="../Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_flash.h"/>
+            <F N="../Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_fsmc.h"/>
+            <F N="../Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_gpio.h"/>
+            <F N="../Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_i2c.h"/>
+            <F N="../drivers/stm32f10x_it.h"/>
+            <F N="../Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_iwdg.h"/>
+            <F N="../Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_pwr.h"/>
+            <F N="../Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_rcc.h"/>
+            <F N="../Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_rtc.h"/>
+            <F N="../Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_sdio.h"/>
+            <F N="../Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_spi.h"/>
+            <F N="../Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_tim.h"/>
+            <F N="../Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_usart.h"/>
+            <F N="../Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_wwdg.h"/>
+            <F N="../Libraries/CMSIS/CM3/DeviceSupport/ST/STM32F10x/system_stm32f10x.h"/>
+            <F N="../Head/SystemConfig.h"/>
+            <F N="../drivers/touch.h"/>
+            <F N="../Head/typedef.h"/>
+            <F N="../drivers/UartTrace.h"/>
+            <F N="../drivers/usart.h"/>
+        </Folder>
+        <Folder
+            Name="Resource Files"
+            Filters="*.ico;*.cur;*.dlg"></Folder>
+        <Folder
+            Name="Bitmaps"
+            Filters="*.bmp"></Folder>
+        <Folder
+            Name="Other Files"
+            Filters=""></Folder>
+    </Files>
+</Project>

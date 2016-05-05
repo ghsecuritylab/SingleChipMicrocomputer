@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Ð¡¿ØÖÆÃæ°å.PrjPcb]
+   Generated File[CL-KB-V1.2.TXT]
+   Generated File[CL-KB-V1.2.LDP]
+   Generated File[CL-KB-V1.2.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 8:55:35 On 2015/8/4

@@ -1,0 +1,21 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: CL-KB-V1.2.pcbdoc   2015/8/4  8:55:34
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : CL-KB-V1.2.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        15mil (0.381mm)          Round          871              107.27 Inch (2724.61 mm)
+T2        30mil (0.762mm)          Round          4                1.62 Inch (41.14 mm)
+T3        32mil (0.8128mm)         Round          2                0.20 Inch (5.08 mm)
+T4        35.4mil (0.89916mm)      Round          2                0.10 Inch (2.54 mm)
+T5        36mil (0.9144mm)         Round          170              31.15 Inch (791.15 mm)
+T6        39.4mil (1.00076mm)      Round          8                3.00 Inch (76.29 mm)
+T7        55mil (1.397mm)          Round          16               5.81 Inch (147.68 mm)
+T8        78.7mil (1.99898mm)      Round          8         NPTH   2.65 Inch (67.27 mm)
+---------------------------------------------------------------------------
+Totals                                            1081             151.80 Inch (3855.76 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:01

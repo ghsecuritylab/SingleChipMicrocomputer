@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>Module/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>194</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1395</ColumnWidth1><ColumnWidth2>372</ColumnWidth2><ColumnWidth3>93</ColumnWidth3></Build>
+      <TerminalIO/>
+    <Debug-Log><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1861</ColumnWidth1></Debug-Log></Static>
+    <Windows>
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-12429-22312</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>Module</ExpandedNode><ExpandedNode>Module/Code</ExpandedNode><ExpandedNode>Module/Output</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-21087-22354</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-21285-32066</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>E:\&#x53eF;&#x6269;&#x5C55;&#x6A21;&#x5757;&#x7535;&#x67DC;&#x96C6;&#x4e2D;&#x7CFB;&#x7eDF;\&#x53eF;&#x6269;&#x5C55;&#x6A21;&#x5757;&#x7535;&#x67DC;&#x96C6;&#x4e2D;&#x7CFB;&#x7eDF;\Code\CLModbus.c</Filename><XPos>0</XPos><YPos>29</YPos><SelStart>807</SelStart><SelEnd>807</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>E:\&#x53eF;&#x6269;&#x5C55;&#x6A21;&#x5757;&#x7535;&#x67DC;&#x96C6;&#x4e2D;&#x7CFB;&#x7eDF;\&#x53eF;&#x6269;&#x5C55;&#x6A21;&#x5757;&#x7535;&#x67DC;&#x96C6;&#x4e2D;&#x7CFB;&#x7eDF;\Code\main.c</Filename><XPos>0</XPos><YPos>105</YPos><SelStart>1810</SelStart><SelEnd>1810</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>E:\&#x53eF;&#x6269;&#x5C55;&#x6A21;&#x5757;&#x7535;&#x67DC;&#x96C6;&#x4e2D;&#x7CFB;&#x7eDF;\&#x53eF;&#x6269;&#x5C55;&#x6A21;&#x5757;&#x7535;&#x67DC;&#x96C6;&#x4e2D;&#x7CFB;&#x7eDF;\Code\StdMd.c</Filename><XPos>0</XPos><YPos>49</YPos><SelStart>835</SelStart><SelEnd>835</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>E:\&#x53eF;&#x6269;&#x5C55;&#x6A21;&#x5757;&#x7535;&#x67DC;&#x96C6;&#x4e2D;&#x7CFB;&#x7eDF;\&#x53eF;&#x6269;&#x5C55;&#x6A21;&#x5757;&#x7535;&#x67DC;&#x96C6;&#x4e2D;&#x7CFB;&#x7eDF;\Code\PWM.c</Filename><XPos>0</XPos><YPos>123</YPos><SelStart>1759</SelStart><SelEnd>1759</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>F:\&#x6269;&#x5C55;&#x6A21;&#x5757;\&#x4ee3;&#x7801;&#x6587;&#x4eF6;\Code\StdMd.c</Filename><XPos>0</XPos><YPos>78</YPos><SelStart>1642</SelStart><SelEnd>1642</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>F:\&#x6269;&#x5C55;&#x6A21;&#x5757;\&#x4ee3;&#x7801;&#x6587;&#x4eF6;\Code\main.c</Filename><XPos>0</XPos><YPos>123</YPos><SelStart>2689</SelStart><SelEnd>2689</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>F:\&#x6269;&#x5C55;&#x6A21;&#x5757;\&#x4ee3;&#x7801;&#x6587;&#x4eF6;\Code\Input.c</Filename><XPos>0</XPos><YPos>35</YPos><SelStart>849</SelStart><SelEnd>849</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>F:\&#x6269;&#x5C55;&#x6A21;&#x5757;\&#x4ee3;&#x7801;&#x6587;&#x4eF6;\Code\EEProm.c</Filename><XPos>0</XPos><YPos>163</YPos><SelStart>3620</SelStart><SelEnd>3620</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>F:\1.&#x9879;&#x76ee;&#x5eFA;&#x7ACB;&#x6587;&#x4eF6;&#x5939;\04.&#x6269;&#x5C55;&#x6A21;&#x5757;\&#x4ee3;&#x7801;&#x6587;&#x4eF6;\Code\EEProm.c</Filename><XPos>0</XPos><YPos>182</YPos><SelStart>3850</SelStart><SelEnd>3850</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>F:\1.&#x9879;&#x76ee;&#x5eFA;&#x7ACB;&#x6587;&#x4eF6;&#x5939;\04.&#x6269;&#x5C55;&#x6A21;&#x5757;\&#x4ee3;&#x7801;&#x6587;&#x4eF6;\Code\CLModbus.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>174</SelStart><SelEnd>174</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>F:\1.&#x9879;&#x76ee;&#x5eFA;&#x7ACB;&#x6587;&#x4eF6;&#x5939;\04.&#x6269;&#x5C55;&#x6A21;&#x5757;\&#x4ee3;&#x7801;&#x6587;&#x4eF6;\Code\main.c</Filename><XPos>0</XPos><YPos>156</YPos><SelStart>3071</SelStart><SelEnd>3071</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>F:\1.&#x9879;&#x76ee;&#x5eFA;&#x7ACB;&#x6587;&#x4eF6;&#x5939;\04.&#x6269;&#x5C55;&#x6A21;&#x5757;\&#x4ee3;&#x7801;&#x6587;&#x4eF6;\Code\ADC.c</Filename><XPos>0</XPos><YPos>58</YPos><SelStart>1233</SelStart><SelEnd>1233</SelEnd></Tab><ActiveTab>11</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>F:\1.&#x9879;&#x76ee;&#x5eFA;&#x7ACB;&#x6587;&#x4eF6;&#x5939;\04.&#x6269;&#x5C55;&#x6A21;&#x5757;\&#x4ee3;&#x7801;&#x6587;&#x4eF6;\Code\StdMd.c</Filename><XPos>0</XPos><YPos>124</YPos><SelStart>2210</SelStart><SelEnd>2210</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-023df5d0><key>iaridepm.enu1</key></Toolbar-023df5d0></Sizes></Row0></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>668</Bottom><Right>268</Right><x>-2</x><y>-2</y><xscreen>270</xscreen><yscreen>286</yscreen><sizeHorzCX>140625</sizeHorzCX><sizeHorzCY>286861</sizeHorzCY><sizeVertCX>140625</sizeVertCX><sizeVertCY>672016</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>284</Bottom><Right>1922</Right><x>-2</x><y>-2</y><xscreen>1924</xscreen><yscreen>286</yscreen><sizeHorzCX>1002083</sizeHorzCX><sizeHorzCY>286861</sizeHorzCY><sizeVertCX>140625</sizeVertCX><sizeVertCY>286861</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+

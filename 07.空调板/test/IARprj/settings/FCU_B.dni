@@ -1,0 +1,39 @@
+[DebugChecksum]
+Checksum=620592260
+[DisAssemblyWindow]
+NumStates=_ 1
+State 1=_ 1
+[InstructionProfiling]
+Enabled=_ 0
+[CodeCoverage]
+Enabled=_ 0
+[Profiling]
+Enabled=0
+[StackPlugin]
+Enabled=1
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnHow=0
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[BreakpointUsageDialog]
+Placement=_ 665 344 1255 689
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Breakpoints]
+Bp0=_ "STD_CODE" "{E:\Work\风机盘管控制器\风机盘管控制器V1.6\风机盘管控制器\5_软件设计\(1)源文件与项目\FCU_B_Pro_V1.2\code\FC.c}.468.7@1" 0 0 0 0 "" 0 ""
+Bp1=_ "STD_CODE" "{E:\Work\风机盘管控制器\风机盘管控制器V1.6\风机盘管控制器\5_软件设计\(1)源文件与项目\FCU_B_Pro_V1.2\code\FC.c}.109.7@1" 0 0 0 0 "" 0 ""
+Bp2=_ "STD_CODE" "{E:\Work\风机盘管控制器\风机盘管控制器V1.6\风机盘管控制器\5_软件设计\(1)源文件与项目\FCU_B_Pro_V1.2\code\FC.c}.99.4@1" 0 0 0 0 "" 0 ""
+Bp3=_ "STD_CODE" "{E:\Work\风机盘管控制器\风机盘管控制器V1.6\风机盘管控制器\5_软件设计\(1)源文件与项目\FCU_B_Pro_V1.2\code\FC.c}.153.7@1" 0 0 0 0 "" 0 ""
+Bp4=_ "STD_CODE" "{E:\Work\风机盘管控制器\风机盘管控制器V1.6\风机盘管控制器\5_软件设计\(1)源文件与项目\FCU_B_Pro_V1.2\code\FC.c}.168.7@1" 0 0 0 0 "" 0 ""
+Bp5=_ "STD_CODE" "{E:\Work\风机盘管控制器\风机盘管控制器V1.6\风机盘管控制器\5_软件设计\(1)源文件与项目\FCU_B_Pro_V1.2\code\FC.c}.139.7@1" 0 0 0 0 "" 0 ""
+Bp6=_ "STD_CODE" "{E:\Work\风机盘管控制器\风机盘管控制器V1.6\风机盘管控制器\5_软件设计\(1)源文件与项目\FCU_B_Pro_V1.2\code\PID.c}.44.4@1" 0 0 0 0 "" 0 ""
+Count=7

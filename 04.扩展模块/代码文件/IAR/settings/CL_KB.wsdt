@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>CL_KB/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>202</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1395</ColumnWidth1><ColumnWidth2>372</ColumnWidth2><ColumnWidth3>93</ColumnWidth3></Build>
+    <TerminalIO/><Debug-Log><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1861</ColumnWidth1></Debug-Log></Static>
+    <Windows>
+      
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-28737-10726</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>CL_KB</ExpandedNode><ExpandedNode>CL_KB/Code</ExpandedNode><ExpandedNode>CL_KB/Head</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-28324-12763</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-1119-27809</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>C:\Users\Administrator\Desktop\&#x53eF;&#x6269;&#x5C55;&#x6A21;&#x5757;&#x7535;&#x67DC;&#x96C6;&#x4e2D;&#x7CFB;&#x7eDF;\Code\Input.c</Filename><XPos>0</XPos><YPos>25</YPos><SelStart>1261</SelStart><SelEnd>1261</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Users\Administrator\Desktop\&#x53eF;&#x6269;&#x5C55;&#x6A21;&#x5757;&#x7535;&#x67DC;&#x96C6;&#x4e2D;&#x7CFB;&#x7eDF;\Code\main.c</Filename><XPos>0</XPos><YPos>108</YPos><SelStart>1948</SelStart><SelEnd>1948</SelEnd></Tab><ActiveTab>1</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>C:\Users\Administrator\Desktop\&#x53eF;&#x6269;&#x5C55;&#x6A21;&#x5757;&#x7535;&#x67DC;&#x96C6;&#x4e2D;&#x7CFB;&#x7eDF;\Code\Timer.c</Filename><XPos>0</XPos><YPos>10</YPos><SelStart>457</SelStart><SelEnd>457</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Users\Administrator\Desktop\&#x53eF;&#x6269;&#x5C55;&#x6A21;&#x5757;&#x7535;&#x67DC;&#x96C6;&#x4e2D;&#x7CFB;&#x7eDF;\Code\uart.c</Filename><XPos>0</XPos><YPos>45</YPos><SelStart>716</SelStart><SelEnd>716</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Users\Administrator\Desktop\&#x53eF;&#x6269;&#x5C55;&#x6A21;&#x5757;&#x7535;&#x67DC;&#x96C6;&#x4e2D;&#x7CFB;&#x7eDF;\Code\StdMd.c</Filename><XPos>0</XPos><YPos>116</YPos><SelStart>2258</SelStart><SelEnd>2258</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Users\Administrator\Desktop\&#x53eF;&#x6269;&#x5C55;&#x6A21;&#x5757;&#x7535;&#x67DC;&#x96C6;&#x4e2D;&#x7CFB;&#x7eDF;\Code\CLModbus.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>291</SelStart><SelEnd>291</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Users\Administrator\Desktop\&#x53eF;&#x6269;&#x5C55;&#x6A21;&#x5757;&#x7535;&#x67DC;&#x96C6;&#x4e2D;&#x7CFB;&#x7eDF;\Code\ADC.c</Filename><XPos>0</XPos><YPos>58</YPos><SelStart>1376</SelStart><SelEnd>1376</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Users\Administrator\Desktop\&#x53eF;&#x6269;&#x5C55;&#x6A21;&#x5757;&#x7535;&#x67DC;&#x96C6;&#x4e2D;&#x7CFB;&#x7eDF;\Code\ADC.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>145</SelStart><SelEnd>145</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Users\Administrator\Desktop\&#x53eF;&#x6269;&#x5C55;&#x6A21;&#x5757;&#x7535;&#x67DC;&#x96C6;&#x4e2D;&#x7CFB;&#x7eDF;\Code\PWM.c</Filename><XPos>0</XPos><YPos>101</YPos><SelStart>1403</SelStart><SelEnd>1403</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Users\Administrator\Desktop\&#x53eF;&#x6269;&#x5C55;&#x6A21;&#x5757;&#x7535;&#x67DC;&#x96C6;&#x4e2D;&#x7CFB;&#x7eDF;\Code\EEProm.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>39</SelStart><SelEnd>272</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Users\Administrator\Desktop\&#x53eF;&#x6269;&#x5C55;&#x6A21;&#x5757;&#x7535;&#x67DC;&#x96C6;&#x4e2D;&#x7CFB;&#x7eDF;\Code\includes.h</Filename><XPos>0</XPos><YPos>15</YPos><SelStart>368</SelStart><SelEnd>368</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Users\Administrator\Desktop\&#x53eF;&#x6269;&#x5C55;&#x6A21;&#x5757;&#x7535;&#x67DC;&#x96C6;&#x4e2D;&#x7CFB;&#x7eDF;\Code\EEProm.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>46</SelStart><SelEnd>46</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-0237f3f8><key>iaridepm.enu1</key></Toolbar-0237f3f8></Sizes></Row0><Row1><Sizes/></Row1></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>735</Bottom><Right>276</Right><x>-2</x><y>-2</y><xscreen>270</xscreen><yscreen>281</yscreen><sizeHorzCX>140625</sizeHorzCX><sizeHorzCY>281846</sizeHorzCY><sizeVertCX>144792</sizeVertCX><sizeVertCY>739218</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>217</Bottom><Right>1922</Right><x>-2</x><y>-2</y><xscreen>1924</xscreen><yscreen>219</yscreen><sizeHorzCX>1002083</sizeHorzCX><sizeHorzCY>219659</sizeHorzCY><sizeVertCX>140625</sizeVertCX><sizeVertCY>281846</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
